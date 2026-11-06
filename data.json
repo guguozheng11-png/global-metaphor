@@ -1,0 +1,138 @@
+[
+  {
+    "country": "印度尼西亚",
+    "metaphor": "科技是魔法",
+    "expression": "电竞能量、五杀、极限反杀",
+    "success_case": "realme 印尼电竞营销",
+    "success_desc": "针对印尼年轻重度手游玩家，将魔法的源域替换为当地玩家极度熟悉的电竞能量。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "澳大利亚",
+    "metaphor": "科技是魔法",
+    "expression": "Make Magic；挥动魔杖、点石成金；把平淡日常变成不可思议画面",
+    "success_case": "Google Pixel 9 澳大利亚 Make Magic 战役",
+    "success_desc": "将AI手机影像的算法优化映射为魔法，消解专业摄影技术门槛，让用户感觉拿起手机就能把日常变成魔法画面。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "沙特阿拉伯（中东）",
+    "metaphor": "科技是魔法",
+    "expression": "阿拉丁神灯、魔毯、愿望瞬间实现",
+    "success_case": "三星 AI 家电中东/拉美童话叙事",
+    "success_desc": "用《一千零一夜》中灯神满足愿望、魔毯自动飞行的高文化可及符号，映射AI洗衣机的全自动与空调智能温控，降低功能理解门槛。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "日本",
+    "metaphor": "科技是魔法（风险对照）",
+    "expression": "快充能量释放、爆炸式冲击视觉",
+    "success_case": "小米日本红米 Note 9 快充视觉隐喻翻车",
+    "success_desc": "用爆炸/能量释放映射快充速度，源域在日本文化中携带广岛原子弹历史创伤联想，认知可及性高但情感接受度低。",
+    "risk_warning": "涉及历史创伤的源域应禁用；爆炸/能量释放类表达在日本市场需替换为迅速、稳定、安心类表达。"
+  },
+  {
+    "country": "墨西哥（拉美）",
+    "metaphor": "消费是旅程",
+    "expression": "Travel Your Way；装得下全家行囊，也装得下远方风景；每个周末都是一场奇妙旅行",
+    "success_case": "捷途汽车出海拉美/中东 Campaign",
+    "success_desc": "把购车行为映射为家庭与探索的旅程，用户买的不是钢铁零件，而是陪伴家人的美好时光。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "中国",
+    "metaphor": "消费是旅程",
+    "expression": "向世界出发、公路旅行、大篷车、海岸线、通往另一种生活的车票",
+    "success_case": "亚马逊海外购《1个世界，10000种生活》",
+    "success_desc": "把跨境电商下单和收包裹重新编码为低成本精神出逃与世界探索，回应年轻人逃离内卷、向往远方的情绪。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "全球（年轻旅行者）",
+    "metaphor": "消费是旅程",
+    "expression": "Travel Brings Out the Best You；旅行让你遇见更好的自己；自我发现之旅",
+    "success_case": "Klook 客路旅行 The Best You 战役",
+    "success_desc": "把预订景点门票和体验项目映射为通往更好自我的成长路径，平台卖的不是票务，而是个人成长入口。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "苏里南",
+    "metaphor": "消费是旅程（风险对照）",
+    "expression": "追随勇敢祖先的脚步、体验种植园氛围",
+    "success_case": "TUI 苏里南旅游推广抵制事件",
+    "success_desc": "旅程时间轴撞上荷兰殖民与奴隶制历史创伤，所谓勇敢祖先实为殖民者和奴隶主，引发抵制并公开道歉。",
+    "risk_warning": "殖民、奴隶制、种植园等历史创伤叙事禁止作为旅程卖点；需做历史敏感词审查。"
+  },
+  {
+    "country": "美国/欧洲（欧美市场）",
+    "metaphor": "产品是伙伴",
+    "expression": "Meet Ropet, your desktop emotional companion；No judgment, just listening；懂你沉默的温暖小伙伴",
+    "success_case": "Ropet AI 宠物欧美版",
+    "success_desc": "把桌面硬件设备映射为不评判、会倾听的情绪陪伴者，强调个体情绪陪伴与独居陪伴。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "日本",
+    "metaphor": "产品是伙伴",
+    "expression": "Lopeto；いつもそばにいる、小さな癒し；あなたの帰りを待つ、ふわふわの相棒",
+    "success_case": "Ropet AI 宠物日本版 Lopeto",
+    "success_desc": "同一硬件改名并切换为二次元治愈系表达，把产品映射为等待你归来的毛茸茸小生命，强调治愈与心意相通。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "巴西",
+    "metaphor": "产品是伙伴",
+    "expression": "Affective Intelligence；Less artificial, more human；Like an empathic friend；read the room in an emotional sense",
+    "success_case": "LG Life's Good 巴西/全球战役",
+    "success_desc": "把AI算法推荐与语音交互映射为有共情力的朋友，剥离机器冰冷感和控制感，保留被理解但不被冒犯的陪伴。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "美国",
+    "metaphor": "产品是伙伴",
+    "expression": "a charming companion；in his natural habitat；幽默感完全展露；有点笨拙但讨人喜欢的家庭成员",
+    "success_case": "Jibo 社交机器人品牌定位",
+    "success_desc": "拒绝只做smart assistant，把机器人功能映射为会逗你笑、偶尔帮倒忙但让人愿意包容的家庭成员；charming不承诺智能而承诺讨人喜欢。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "全球/通用",
+    "metaphor": "时间是金钱",
+    "expression": "Save your time；为您节省宝贵时间；spend time、waste time、save time、invest time",
+    "success_case": "高文化可及隐喻：TIME IS MONEY",
+    "success_desc": "时间有限且可换取价值是跨文化共享生活经验，服务类广告用节省/浪费/投入时间通常跨文化可理解。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "全球/通用",
+    "metaphor": "向上即更好",
+    "expression": "焕亮上扬；性能步步高升；lift your energy；rise in status",
+    "success_case": "高文化可及隐喻：UP IS GOOD",
+    "success_desc": "直立、升高代表优势与积极，来自共同身体感知，护肤、电子产品和职场广告跨文化可读。",
+    "risk_warning": "无"
+  },
+  {
+    "country": "中国（对西方传播）",
+    "metaphor": "文化专属隐喻：龙",
+    "expression": "龙启新程；龙＝祥瑞、兴旺、力量",
+    "success_case": "低文化可及隐喻对照：龙",
+    "success_desc": "汉语文化中龙为祥瑞，西方dragon多代表邪恶怪兽，同一源域两套映射，直接移植到西方受众可及性低。",
+    "risk_warning": "对西方市场避免直接以龙承载祥瑞；需解释或替换为当地高可及符号。"
+  },
+  {
+    "country": "西方市场（对华传播）",
+    "metaphor": "文化专属隐喻：橄榄枝",
+    "expression": "橄榄枝＝和平，源自古希腊典故",
+    "success_case": "低文化可及隐喻对照：橄榄枝",
+    "success_desc": "西方橄榄枝和平隐喻对国内普通大众不加解释时映射不易立刻激活；反向喜鹊报喜对海外受众也难读懂。",
+    "risk_warning": "跨文化使用需补充语境或改用双方共享的和平符号。"
+  },
+  {
+    "country": "中国（对西方传播）",
+    "metaphor": "文化专属隐喻：梅开五福",
+    "expression": "梅花＝五福、吉祥；梅开五福",
+    "success_case": "低文化可及隐喻对照：梅开五福",
+    "success_desc": "中式礼品广告常用梅花承载五福吉祥，但西方文化中梅花没有这套寓意，映射无法建立。",
+    "risk_warning": "对西方市场需解释文化寓意或替换为当地可识别的吉祥符号。"
+  }
+]
